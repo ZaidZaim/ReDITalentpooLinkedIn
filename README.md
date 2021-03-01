@@ -1,8 +1,3 @@
 # ReDITalentpooLinkedIn
-ReDI Talentpool LinkedIn integration
+ReDI Talentpool LinkedIn integration - Testing with postman
 
-blah blah 
-
-git commit -m "Test"
-git push
-git pull
